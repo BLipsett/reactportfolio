@@ -29,6 +29,11 @@
   }
 
 .Links {
+    text-align: center;
+
+    .container-fluid{
+        display: inline-block;
+    }
 
     .btn {
         height: 30px;
