@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.42a251c6.chunk.css",
-    "main.js": "/static/js/main.afb69887.chunk.js",
-    "main.js.map": "/static/js/main.afb69887.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d4fc8b2f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d4fc8b2f.js.map",
-    "static/js/2.128247cd.chunk.js": "/static/js/2.128247cd.chunk.js",
-    "static/js/2.128247cd.chunk.js.map": "/static/js/2.128247cd.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.30e48114990ff07d78bf8612f6b40220.js": "/precache-manifest.30e48114990ff07d78bf8612f6b40220.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.42a251c6.chunk.css.map": "/static/css/main.42a251c6.chunk.css.map",
-    "static/js/2.128247cd.chunk.js.LICENSE.txt": "/static/js/2.128247cd.chunk.js.LICENSE.txt",
-    "static/media/Group2.0a99c43e.svg": "/static/media/Group2.0a99c43e.svg",
-    "static/media/App.css": "/static/media/blemProf-min.ff1802b4.jpg"
+    "main.css": "/reactportfolio/static/css/main.b019a75d.chunk.css",
+    "main.js": "/reactportfolio/static/js/main.57f6d6df.chunk.js",
+    "main.js.map": "/reactportfolio/static/js/main.57f6d6df.chunk.js.map",
+    "runtime-main.js": "/reactportfolio/static/js/runtime-main.0f391e1c.js",
+    "runtime-main.js.map": "/reactportfolio/static/js/runtime-main.0f391e1c.js.map",
+    "static/js/2.128247cd.chunk.js": "/reactportfolio/static/js/2.128247cd.chunk.js",
+    "static/js/2.128247cd.chunk.js.map": "/reactportfolio/static/js/2.128247cd.chunk.js.map",
+    "index.html": "/reactportfolio/index.html",
+    "precache-manifest.2e4aac4595f92355b63e2dd8cadf5df0.js": "/reactportfolio/precache-manifest.2e4aac4595f92355b63e2dd8cadf5df0.js",
+    "service-worker.js": "/reactportfolio/service-worker.js",
+    "static/css/main.b019a75d.chunk.css.map": "/reactportfolio/static/css/main.b019a75d.chunk.css.map",
+    "static/js/2.128247cd.chunk.js.LICENSE.txt": "/reactportfolio/static/js/2.128247cd.chunk.js.LICENSE.txt",
+    "static/media/Group2.0a99c43e.svg": "/reactportfolio/static/media/Group2.0a99c43e.svg",
+    "static/media/App.css": "/reactportfolio/static/media/blemProf-min.ff1802b4.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d4fc8b2f.js",
+    "static/js/runtime-main.0f391e1c.js",
     "static/js/2.128247cd.chunk.js",
-    "static/css/main.42a251c6.chunk.css",
-    "static/js/main.afb69887.chunk.js"
+    "static/css/main.b019a75d.chunk.css",
+    "static/js/main.57f6d6df.chunk.js"
   ]
 }
