@@ -1,14 +1,20 @@
 import React from "react";
 import { Link } from 'react-router-dom';
+import { ReactComponent as Logo } from '../Images/Group2.svg';
+import './Header.scss';
 
 const Header = () => {
 
     return (
-        <div>
+        <div className="Header">
+        
+        <Link to="/Home">
+            <Logo /> 
+          </Link>
+        <Link to="/Contact" className="Right">Contact</Link>
+        <Link to="/About" className="Right">About</Link>
+        <Link to="/Portfolio" className="Right">Portfolio</Link>
 
-        <Link to="/About">About</Link>
-        <Link to="/Home"> Home </Link>
-        <Link to="/Portfolio">Portfolio</Link>
 
 
         </div>

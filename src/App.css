@@ -1,6 +1,19 @@
 .App {
-  text-align: center;
+  
 }
+
+body {
+  padding: 2em;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #212121;
+  background-image: url('../src/Images/blemProf-min.jpg');
+  background-size: cover;
+
+}
+
 
 .App-logo {
   height: 40vmin;
@@ -14,6 +27,7 @@
 }
 
 .App-header {
+  background-image: url('./Images/blemProf-min.jpg');
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
