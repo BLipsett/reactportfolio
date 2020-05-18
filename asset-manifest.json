@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3c623348.chunk.css",
+    "main.js": "/static/js/main.afb69887.chunk.js",
+    "main.js.map": "/static/js/main.afb69887.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d4fc8b2f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d4fc8b2f.js.map",
+    "static/js/2.128247cd.chunk.js": "/static/js/2.128247cd.chunk.js",
+    "static/js/2.128247cd.chunk.js.map": "/static/js/2.128247cd.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bd07fe4518200391748fc01a972677d1.js": "/precache-manifest.bd07fe4518200391748fc01a972677d1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3c623348.chunk.css.map": "/static/css/main.3c623348.chunk.css.map",
+    "static/js/2.128247cd.chunk.js.LICENSE.txt": "/static/js/2.128247cd.chunk.js.LICENSE.txt",
+    "static/media/Group2.0a99c43e.svg": "/static/media/Group2.0a99c43e.svg",
+    "static/media/App.css": "/static/media/blemProf-min.ff1802b4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4fc8b2f.js",
+    "static/js/2.128247cd.chunk.js",
+    "static/css/main.3c623348.chunk.css",
+    "static/js/main.afb69887.chunk.js"
+  ]
+}
